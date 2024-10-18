@@ -1,0 +1,17 @@
+table,th,td{
+    border: 1px solid black;
+}
+
+
+
+P{
+    font-size: 16PX;
+    height: 1.5;
+    color: darkgray;
+}
+
+
+
+li{
+    color: green;
+}
